@@ -6,3 +6,10 @@ Team 16
 
 Team: Preston Hang, Qunyi Pan, Mingqian Xu
 Mentor: Chris Patton
+
+# Software Dependencies
+
+
+
+
+# Hardware dependencies
