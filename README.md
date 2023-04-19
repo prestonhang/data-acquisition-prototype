@@ -3,8 +3,13 @@
 Oregon State University Senior Design Project 2022-2023
 Team 16
 
-Team: Preston Hang, Qunyi Pan, Mingqian Xu
-Mentor: Chris Patton
+Team: 
+- Preston Hang | prestontanhang@gmail.com | [LinkedIn](https://www.linkedin.com/in/prestonhang/)
+- Qunyi Pan
+- Mingqian Xu
+
+Mentor: 
+- Chris Patton
 
 
 ## Software Dependencies
