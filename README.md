@@ -1,8 +1,7 @@
 # Personal Data Acquisition Prototype
 
-Oregon State University 
-
-Senior Design Project 2022-2023
+### Oregon State University 
+### Senior Design Project 2022-2023
 
 Team: 
 - Preston Hang | prestontanhang@gmail.com | [LinkedIn](https://www.linkedin.com/in/prestonhang/)
