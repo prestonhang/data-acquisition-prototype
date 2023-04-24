@@ -18,9 +18,10 @@ We are going to design a Personal Data Acquisition Device that bridges this gap.
 
 
 ## Software Dependencies
+- STM32CubeIDE for programming the microcontroller
 - Flask, a lightweight Python-based application
 - SQLite Database
-- CubeIDE for programming the STM32 Microcontroller
+- Multiple library installations (see src folder)
 
 ## Hardware dependencies
 - STM32F103 "Blue Pill" Development Board
